@@ -1,6 +1,6 @@
 {
-	"name": "ModuleName",
-	"servePlaceIds": [],
+	"name": "SmartTool",
+	"servePlaceIds": [13027698575],
 	"tree": {
 		"$className": "DataModel",
 		"ReplicatedStorage": {
